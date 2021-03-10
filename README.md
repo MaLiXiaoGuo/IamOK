@@ -1,0 +1,2 @@
+# IamOK
+My daily code.
